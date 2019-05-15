@@ -6,7 +6,7 @@ Anthony Cheng
 
 The following **required** functionality is complete:
 
-* [✔️] Web Crawler can take a website and a keyword and crawl at most 10 websites looking for the number of links found with that keyword 
+* [✔] Web Crawler can take a website and a keyword and crawl at most 10 websites looking for the number of links found with that keyword
 
 ## Video Walkthrough 
 
@@ -16,6 +16,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
+Web Crawler is written in Java and uses the Jsoup library to make HTTP request and response.
 
 ## License
 
